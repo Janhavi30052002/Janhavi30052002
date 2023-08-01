@@ -23,7 +23,7 @@ Feel free to explore these projects and provide feedback. I'm always open to lea
 ## How to Reach Me
 
 I'm excited to connect with other developers, mentors, and learners from the web development community. If you'd like to get in touch, you can find me on:
-[![Badge Alt Text](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavi-belnekar-43971b264/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavi-belnekar-43971b264/)
 
 
 ## Contributing
