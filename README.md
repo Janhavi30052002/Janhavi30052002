@@ -29,6 +29,9 @@ Feel free to explore these projects and provide feedback. I'm always open to lea
 *Framework*
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+*Design*
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 ## How to Reach Me
 
 I'm excited to connect with other developers, mentors, and learners from the web development community. If you'd like to get in touch, you can find me on:
