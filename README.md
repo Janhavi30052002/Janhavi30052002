@@ -15,7 +15,7 @@ A selection of the projects I've been working on can be found in this repository
 
 1. TinDog (https://github.com/Janhavi30052002/TINDOG) -Sales promotion of mobile application on the website.
 2. Snake-Mania(https://github.com/Janhavi30052002/Snake-mania) - The Classic Sanke game made with the help of HTML and JavaScript. 
-3. Personal-Portfolio(https://github.com/Janhavi30052002/Personal-portfolio) - A Portfolio website designed with HTML and CSS.
+3. Personal-Portfolio(https://github.com/Janhavi30052002/Personal-portfolio) - A Portfolio website designed with HTML,CSS and Bootstrap.
 
 Feel free to explore these projects and provide feedback. I'm always open to learning and improving, so any suggestions you have would be highly appreciated!
 
